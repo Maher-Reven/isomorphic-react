@@ -13,7 +13,7 @@
     "test-watch": "jest --watch"
   },
   "keywords": [],
-  "author": "Daniel Stern (Code Whisperer)",
+  "author": "Maher Kurdi",
   "license": "MIT",
   "dependencies": {
     "@babel/cli": "^7.0.0",
