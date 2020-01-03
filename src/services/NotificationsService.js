@@ -5,6 +5,6 @@ export default {
     console.warn("REAL NOTIFICATION SERVICE! CONTACTING APIS!");
 
     await delay(1000);
-    return { count: 42 };
+    return { count: 600 };
   }
 }

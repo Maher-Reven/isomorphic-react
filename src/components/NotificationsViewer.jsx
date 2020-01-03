@@ -12,7 +12,7 @@ export default class NotificationsViewer extends React.Component {
 
   async componentDidMount () {
     let { count } = await NotificationsService.GetNotifications();
-    console.log('componentDidMount count:', count);
+    console.log('componentDidMount count:', count); 
 
     this.setState({
       count
